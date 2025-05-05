@@ -5,18 +5,8 @@ body {
     font-family: Arial, sans-serif;
     color: #fff;
 }
-  
+
 .player-wrapper {
-    margin: 0 auto;
-    max-width: 400px;
-}
-  
-h1 {
-    margin: 70px 0 10px 10px;
-    color: #fff;
-}
-  
-.player-container {
     background-color: #111;
     width: 100%;
     max-width: 400px;
@@ -24,13 +14,16 @@ h1 {
     box-sizing: border-box;
     padding: 20px;
     margin-top: 50px;
-  }
-  
+}
+
+h1 {
+    margin: 70px 0 10px 10px;
+    color: #fff;
+}  
   
 .song-list {
     padding-left: 20px;
     margin-bottom: 0;
-    list-style-type: decimal;
 }
   
 .song-list li {
@@ -87,4 +80,4 @@ h1 {
     background-color: #fff;
     color: #000;
 }
-  
+   
